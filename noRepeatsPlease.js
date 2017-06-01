@@ -34,6 +34,3 @@ var result = 0;
   generate (arr.length);
   return result;
 }
-
-// Test here.
-permAlone('aab');
