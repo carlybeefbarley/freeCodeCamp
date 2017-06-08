@@ -112,17 +112,45 @@ box-shadow: inset -1px -8px 61px -5px rgba(0,0,0,0.75);
 
 
 .bigButton{
-  height:83px;
-  margin-left:10px;
+  height:82px;
+  margin-left:98px;
+  margin-top:-19px;
   position:absolute;
-  padding-top:34px;
+  padding-top:30px;
 }
 
-.alligned{
-  margin-right:65px;
+.wideButton{
+  width:108px;
 }
 
-.row-4{
+.bottom{
+  margin-right:3px;
+}
+
+.big{
   margin-right:65px;
   margin-bottom: -20px;
+}
+
+a.divide{
+  padding-top:-20px;
+}
+
+a.multiply{
+  padding-top:13px;
+  padding-right:5px;
+}
+
+a.subtract{
+  padding-top:2px;
+}
+
+a.AC{
+   padding-left:auto;
+  padding-right:auto;
+}
+
+.row3{
+  margin-bottom:-20px;
+
 }
